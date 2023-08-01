@@ -1,0 +1,4 @@
+Server => Fornitore di servizi
+Client => Richiedente di servizio
+Comunicazione biunivoca
+HOST => dispositivo
