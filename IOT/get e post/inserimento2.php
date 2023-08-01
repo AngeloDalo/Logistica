@@ -1,4 +1,9 @@
 <?php
+
+// $dbname = "my_angelodalo";
+// $conn = new msqli($servername, $username, $password, $dbname);
+
+
 $host = "localhost";
 $user = "root";
 $password = "root";
